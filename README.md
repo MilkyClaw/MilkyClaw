@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MilkyClaw/MilkyClaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ₊˚⊹ ᰔ `୨ kitty's profile ୧` ᰔ ⊹˚₊
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 𐙚 ₊˚ About Kitty ᰔ
+
+<pre>
+┌── [ info.txt ] ─────────────────────────┐
+│ 𐙚 name     : kitty                      │
+│ 𐙚 role     : learning                   │
+│ 𐙚 prob     : listening to music         │
+└─────────────────────────────────────────┘
+</pre>
+
+<br/>
+
+### *kitty's tools*
+
+![Tools](https://skillicons.dev/icons?i=cpp,python,github,visualstudio,discord&theme=light)
+
+![Status](https://img.shields.io/badge/status-ignoring%20dms-ffe7fd?style=for-the-badge&logoColor=white)
+![Loving](https://img.shields.io/badge/loving-pink-ffe7fd?style=for-the-badge&logoColor=white)
+
+</div>
