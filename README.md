@@ -18,7 +18,7 @@
 
 ### *kitty's tools*
 
-![Tools](https://skillicons.dev/icons?i=cpp,python,github,visualstudio,discord&theme=light)
+![Tools](https://skillicons.dev/icons?i=cpp,python,github,visualstudio,discord&theme=dark)
 
 ![Status](https://img.shields.io/badge/status-ignoring%20dms-ffe7fd?style=for-the-badge&logoColor=white)
 ![Loving](https://img.shields.io/badge/loving-pink-ffe7fd?style=for-the-badge&logoColor=white)
